@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: feaaab6d3f929734da74c56c67d0deb3, type: 3}
+  m_Name: Hero_And_HeroPlus_To_Legendary
+  m_EditorClassIdentifier: Assembly-CSharp::HeroRecipeData
+  result: {fileID: 11400000, guid: bf25acc9989667840944dd350013d4f2, type: 2}
+  heroes:
+  - hero: {fileID: 11400000, guid: f94be1804131c0348a38e7a86393c425, type: 2}
+    count: 1
+  - hero: {fileID: 11400000, guid: 7f15f56221745c94db473593c3fcd948, type: 2}
+    count: 1
+  items: []

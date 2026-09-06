@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: feaaab6d3f929734da74c56c67d0deb3, type: 3}
+  m_Name: EliteOriginRare3_To_Hero
+  m_EditorClassIdentifier: Assembly-CSharp::HeroRecipeData
+  result: {fileID: 11400000, guid: b5b80da9f5b8cda41a321ef908551fb9, type: 2}
+  heroes:
+  - hero: {fileID: 11400000, guid: e6e56689cb3644f4988bf1407e2416fd, type: 2}
+    count: 3
+  items: []

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bb7ed8e04225de408e056f2b6d0ec8f, type: 3}
+  m_Name: HeroSummonTable_Prototype
+  m_EditorClassIdentifier: Assembly-CSharp::HeroSummonTableData
+  tiers:
+  - tier: 0
+    weight: 60
+    candidates:
+    - heroData: {fileID: 11400000, guid: 5d1008f1e94f20344a66b3d1beb4de48, type: 2}
+      weight: 1
+  - tier: 1
+    weight: 30
+    candidates:
+    - heroData: {fileID: 11400000, guid: d7d9063a32addd7489ba2178f37aa80c, type: 2}
+      weight: 1
+  - tier: 2
+    weight: 7
+    candidates:
+    - heroData: {fileID: 11400000, guid: c985a7aac9e04694e871aeeb3f52b4a5, type: 2}
+      weight: 1
+    - heroData: {fileID: 11400000, guid: 787eeaf2726ee464ab026781d5c4a9c6, type: 2}
+      weight: 1
+  - tier: 3
+    weight: 2.5
+    candidates:
+    - heroData: {fileID: 11400000, guid: f94be1804131c0348a38e7a86393c425, type: 2}
+      weight: 1
+    - heroData: {fileID: 11400000, guid: 7f15f56221745c94db473593c3fcd948, type: 2}
+      weight: 1
+  - tier: 4
+    weight: 0.5
+    candidates:
+    - heroData: {fileID: 11400000, guid: bf25acc9989667840944dd350013d4f2, type: 2}
+      weight: 1
+    - heroData: {fileID: 11400000, guid: ff8196fbd8b2ea1489473ffc7f7c304b, type: 2}
+      weight: 1

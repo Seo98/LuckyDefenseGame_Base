@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 962b16b267c1acc449a3c8eb6101fad2, type: 3}
+  m_Name: HeroRecipes_Prototype
+  m_EditorClassIdentifier: Assembly-CSharp::HeroRecipeCatalog
+  recipes:
+  - {fileID: 11400000, guid: d3df84245d5f01540a175dc51cfb7a3f, type: 2}
+  - {fileID: 11400000, guid: a6fc64c9eb23ed346b55cc6825aa8eea, type: 2}
+  - {fileID: 11400000, guid: 94e7d2bfb153d694eb603f60047df638, type: 2}
+  - {fileID: 11400000, guid: 9f16710be8cbaa8428b787a5f0d6d4e9, type: 2}
+  - {fileID: 11400000, guid: 06870055483a811468ce3a6beb8f40af, type: 2}
+  - {fileID: 11400000, guid: 5534088849dfff942a8aa495339b4833, type: 2}
+  - {fileID: 11400000, guid: 1cf5dd3f5dd0b02498974dcc79fb49a6, type: 2}
+  summonItems:
+  - {fileID: 11400000, guid: fa564cd9f3ed841448559976db24256f, type: 2}
+  itemSummonCost: 200

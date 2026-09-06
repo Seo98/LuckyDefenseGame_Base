@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23e7539143cf6b94b9b5896d0550edd7, type: 3}
+  m_Name: Hero_EliteOrigin_Rare
+  m_EditorClassIdentifier: Assembly-CSharp::HeroData
+  displayName: "\uCCA0\uAC11 \uAE30\uC0AC"
+  maxHealth: 130
+  grade: 2
+  hasBirthGradeOverride: 1
+  birthGrade: 1
+  prefabReference:
+    m_AssetGUID: 9f9a7499eac481149b22e0216ab928cb
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0
+  poolPrewarmCount: 1
+  attackDamage: 65
+  attackInterval: 1.1
+  attackRange: {x: 14, y: 12}
+  populationCost: 3
