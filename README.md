@@ -2,6 +2,8 @@
 
 # Lucky Defense
 ### Project_DF · 운빨 디펜스 게임
+<img width="1181" height="664" alt="image" src="https://github.com/user-attachments/assets/715a50f5-fb17-474f-b8f8-333396a6ab5a" />
+
 
 **랜덤 소환 · 8칸 벤치 · 드래그 배치 · 레시피 합성 · 웨이브 전투**
 
